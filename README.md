@@ -1,10 +1,10 @@
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PixelGuard Foundation | Online Safety Education for Kids & Families</title>
-  <meta name="description" content="PixelGuard Foundation is a Spokane-based nonprofit educating children, parents, and gaming communities about online safety and predator prevention." />
+  <title>PixelGuard Foundation | Gaming Safety Education for Kids & Families</title>
+  <meta name="description" content="PixelGuard Foundation is a Spokane-based nonprofit educating children, parents, and gaming communities about predator safety in gaming environments." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -690,12 +690,12 @@
   <div class="hero-glow" aria-hidden="true"></div>
   <div class="hero-inner">
     <div class="hero-content">
-      <div class="hero-eyebrow">Spokane, WA · Nonprofit Organization</div>
+      <div class="hero-eyebrow">Spokane, WA · Gaming Safety Nonprofit</div>
       <h1 class="hero-headline">
-        Online safety starts <em>before</em> danger finds them.
+        Predators live where <em>your kids game.</em>
       </h1>
       <p class="hero-sub">
-        PixelGuard Foundation equips children, parents, and gaming communities with real knowledge to recognize and resist online predators — before it's too late.
+        PixelGuard Foundation equips children, parents, and gaming communities with the knowledge to recognize and resist predators in gaming environments — before grooming begins.
       </p>
       <div class="hero-actions">
         <a href="#contact" class="btn-primary">Get Involved</a>
@@ -716,15 +716,15 @@
   <div class="stats-inner">
     <div class="stat">
       <div class="stat-num">1 in 5</div>
-      <div class="stat-label">children online receive unwanted sexual solicitation each year</div>
+      <div class="stat-label">children are solicited by predators while playing online games each year</div>
     </div>
     <div class="stat">
       <div class="stat-num">90%</div>
-      <div class="stat-label">of child sexual exploitation occurs through gaming platforms and social media</div>
+      <div class="stat-label">of child sexual exploitation begins through gaming platforms and in-game chat</div>
     </div>
     <div class="stat">
       <div class="stat-num">~40%</div>
-      <div class="stat-label">of grooming victims know their perpetrator before meeting online</div>
+      <div class="stat-label">of grooming victims already knew their perpetrator as a trusted gaming friend</div>
     </div>
   </div>
 </section>
@@ -735,23 +735,23 @@
     <div class="section-eyebrow">What We Do</div>
     <h2 class="section-heading">Three pillars. One mission.</h2>
     <p class="section-sub">
-      "Don't talk to strangers" isn't enough anymore. We teach families the real patterns of grooming, the platforms where it happens, and the tools to stop it.
+      "Don't talk to strangers" was never designed for gaming. Predators build trust over weeks and months inside the games your child loves — we teach families exactly how that happens and how to stop it.
     </p>
     <div class="pillars">
       <div class="pillar-card">
         <div class="pillar-icon">📚</div>
         <div class="pillar-title">Education</div>
-        <p class="pillar-desc">Age-appropriate materials for kids 5–12, parent workshops, and school curricula that replace outdated "stranger danger" messaging with how predators actually operate.</p>
+        <p class="pillar-desc">Age-appropriate curricula for kids 5–12 that teach how predators use gaming platforms, in-game chat, and voice channels to groom children — and exactly what to do when it happens.</p>
       </div>
       <div class="pillar-card">
         <div class="pillar-icon">📢</div>
         <div class="pillar-title">Advocacy</div>
-        <p class="pillar-desc">Pushing for safer online platforms, better reporting tools within gaming environments, and policy-level protections for minors in digital spaces.</p>
+        <p class="pillar-desc">Pushing game developers, platforms, and policymakers to build stronger protections into the games and lobbies where children spend their time.</p>
       </div>
       <div class="pillar-card">
         <div class="pillar-icon">🎮</div>
         <div class="pillar-title">Community</div>
-        <p class="pillar-desc">Working directly with gaming communities to shift culture from the inside — empowering players, streamers, and community managers to become part of the solution.</p>
+        <p class="pillar-desc">Partnering with gamers, streamers, clan leaders, and community managers to shift gaming culture from the inside — making it harder for predators to operate undetected.</p>
       </div>
     </div>
   </div>
@@ -763,9 +763,9 @@
     <div>
       <div class="section-eyebrow">About the Foundation</div>
       <h2 class="section-heading">Built by someone who knows the game.</h2>
-      <p class="section-sub">PixelGuard Foundation was incorporated in Washington State to address a gap in online safety education — one that leaves children vulnerable precisely because it ignores where they actually spend time.</p>
+      <p class="section-sub">PixelGuard Foundation was incorporated in Washington State to address a critical gap in child safety education — one that overlooks gaming environments, the exact spaces where predators actively target and groom children.</p>
       <div class="founder-quote">
-        <p>"The danger isn't strangers. It's the 'friend' your child has known online for six months who has been grooming them the entire time."</p>
+        <p>"The danger isn't strangers. It's the 'friend' your child has been gaming with for six months who has been grooming them the entire time — and nobody taught them to recognize it."</p>
         <div class="founder-byline">— Felisha Elmer (Tiger), Founder</div>
       </div>
     </div>
@@ -796,25 +796,25 @@
     <div class="contact-header">
       <div class="section-eyebrow">Get Involved</div>
       <h2 class="section-heading">How can we help you?</h2>
-      <p class="section-sub">Whether you're a parent with questions, an educator building curriculum, or a donor looking to make an impact — we'd love to hear from you.</p>
+      <p class="section-sub">Whether you're a parent worried about who your child is gaming with, an educator building curriculum, or a donor ready to make an impact — we'd love to hear from you.</p>
     </div>
     <div class="audience-grid">
       <a href="mailto:hello@pixelguard.org?subject=Parent%20Inquiry" class="audience-card">
         <div class="audience-icon">👨‍👩‍👧</div>
         <div class="audience-title">Parents & Guardians</div>
-        <p class="audience-desc">Get resources, ask questions, or request a workshop for your school or community group.</p>
+        <p class="audience-desc">Learn the warning signs of gaming-based grooming, get resources, or request a workshop for your school or community.</p>
         <div class="audience-link">Contact us →</div>
       </a>
       <a href="mailto:hello@pixelguard.org?subject=Educator%20Inquiry" class="audience-card">
         <div class="audience-icon">🏫</div>
         <div class="audience-title">Educators & Schools</div>
-        <p class="audience-desc">Access curriculum materials and bring PixelGuard programming into your classroom.</p>
+        <p class="audience-desc">Access gaming safety curriculum materials and bring PixelGuard programming into your classroom.</p>
         <div class="audience-link">Request resources →</div>
       </a>
       <a href="mailto:hello@pixelguard.org?subject=Donor%20or%20Grant%20Inquiry" class="audience-card">
         <div class="audience-icon">🤝</div>
         <div class="audience-title">Donors & Funders</div>
-        <p class="audience-desc">Support evidence-based online safety education for underserved communities in Spokane and beyond.</p>
+        <p class="audience-desc">Support the only Spokane-based nonprofit focused specifically on predator safety in gaming environments.</p>
         <div class="audience-link">Partner with us →</div>
       </a>
     </div>
